@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.first{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    padding: 21rem 0; 
+    background-position: center;
+    background-size: cover;
+}
+
+.first h1{
+    color: #212529;
+    font-size: 88px;
+}
+
+.first h3{
+    color: #212529;
+    font-size: 28px;
+    font-style: italic;
+    margin-bottom: 60px;
+    
+}
+
+.first a:hover{
+    background-color: #196d87;
+
+}
+
+.first a{
+    background-color: #1d809f;
+    padding: 20px 40px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
+
+.second{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    
+}
+
+.second h2{
+    color: #212529;
+    font-size: 32px;
+    border-top: 50px;
+}
+
+.second p{
+    color: #212529;
+    font-size: 20px;
+    margin-bottom: 60px;
+    
+}
+
+
+.second p a{
+    text-decoration: underline;
+}
+
+.second >a:hover{
+    background-color: #424649;
+
+}
+
+.second >a{
+    background-color: #212529;
+    padding: 1.25rem 2.5rem;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+
+.third{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 240px 550px;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.third h2{
+    color: #212529;
+    font-size: 56px;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+
+.third a:hover{
+    background-color: #196d87;
+
+}
+
+.third a{
+    background-color: #1d809f;
+    padding: 20px 40px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
+
+
+.forth{
+    background-color: #1d809f;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    text-align: center;
+    
+}
+
+.forth h2{
+    
+    color: #fff;
+    font-size: 32px;
+    margin-bottom: 60px;
+}
+
+.forth a:hover{
+    background-color: #d3d4d5 ;
+}
+
+.forth a{
+    color: #000;
+    font-size: 16px;
+    background-color: #fff;
+    padding: 20px 40px;
+    margin-right: 24px;
+    font-weight: bold;
+    border-radius: 10px;
+    
+}
+
+.forth .item:hover{
+    background-color: #424649;
+
+}
+
+.forth .item{
+    color: #fff;
+    background-color: #212529;
+    padding: 20px 40px;
+    font-weight: bold;
+    
+    
+} 
+
+
+
